@@ -1,0 +1,7 @@
+{
+  "identifier": "default",
+  "description": "Default capabilities for AudioViz",
+  "windows": ["main"],
+  "permissions": ["core:default", "dialog:allow-save"]
+}
+
