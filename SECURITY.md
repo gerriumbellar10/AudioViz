@@ -9,7 +9,7 @@ Only the latest release is supported with security fixes.
 Please **do not** open a public GitHub issue for security-sensitive reports.
 
 Instead, email:
-- `security@audioviz.app`
+- `github@rekiri.com`
 
 If you cannot use email, you can open a GitHub issue **without** sensitive details and ask for a private channel.
 
